@@ -1,0 +1,1 @@
+python C:\Users\nohog\PycharmProjects\pythonProject\DBUpdater.py
