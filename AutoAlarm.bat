@@ -1,1 +1,0 @@
-python C:\Users\nohog\PycharmProjects\pythonProject\AutoAlarm.py
